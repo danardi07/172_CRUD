@@ -1,0 +1,5 @@
+![](images/get.png)
+![](images/getByID.png)
+![](images/post.png)
+![](images/put.png)
+![](images/delete.png)
